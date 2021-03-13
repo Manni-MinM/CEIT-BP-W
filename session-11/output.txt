@@ -1,0 +1,17 @@
+ID : 14015 / firstname : Beth / lastname : Ulphia / score : 74
+ID : 14014 / firstname : Julieta / lastname : Colyer / score : 24
+ID : 14013 / firstname : Lauryn / lastname : Narton / score : 88
+ID : 14012 / firstname : Aigneis / lastname : Modie / score : 72
+ID : 14011 / firstname : Kittie / lastname : Maryanne / score : 63
+ID : 14010 / firstname : Kamilah / lastname : Liva / score : 100
+ID : 14009 / firstname : Amalie / lastname : Parette / score : 97
+ID : 14008 / firstname : Cordi / lastname : Annice / score : 34
+ID : 14007 / firstname : Chere / lastname : Ursulette / score : 74
+ID : 14006 / firstname : Averyl / lastname : Tatianas / score : 12
+ID : 14005 / firstname : Tersina / lastname : Ledah / score : 42
+ID : 14004 / firstname : Hyacinthe / lastname : Tarrant / score : 13
+ID : 14003 / firstname : Albertina / lastname : Sholley / score : 94
+ID : 14002 / firstname : Alia / lastname : Bohlin / score : 53
+ID : 14001 / firstname : Beth / lastname : Wenda / score : 32
+ID : 14000 / firstname : Carilyn / lastname : Diann / score : 40
+Average : 57.000000
